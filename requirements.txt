@@ -1,0 +1,7 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+tensorflow==2.15.0rc1
+Pillow==8.0.0
+httpx==0.19.0
+opencv-python==4.8.1.78
+starlette==0.14.2
